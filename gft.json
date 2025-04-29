@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Jiskan24",
+    "previewText": "The Quick Brown Gurt Sybaus Over The Lazy Dih",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-Bold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-BoldItalic": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-ExtraBold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-Medium": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf1",
+        "ggsans-MediumItalic": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-Normal": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-NormalItalic": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-Semibold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "NotoSans-Bold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "NotoSans-ExtraBold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "NotoSans-Medium": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "NotoSans-Normal": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "NotoSans-NormalItalic": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "NotoSans-Semibold": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf",
+        "ggmono-Normal": "https://github.com/amennotobakaidou/test/raw/refs/heads/main/JF-Dot-jiskan24h-2000.ttf1"
+    }
+}
